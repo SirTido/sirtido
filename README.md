@@ -1,1 +1,1 @@
-# SirTido.github.co.za
+# SirTido.github.io
