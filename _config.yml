@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maggie Wolff"
+title                    : "Thato Mogotsi"
 title_separator          : "-"
-name                     : &name "Maggie Wolff"
-description              : &description "Data Scientist"
-url                      : https://maggiewolff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Thato Mogotsi"
+description              : &description "Aspiring Data Scientist"
+url                      : https://sirtido.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maggiewolff/maggiewolff.github.io"
+repository               : "sirtido/sirtido.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &data_maggie
+  username               : &SirTido
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maggie Wolff"
-  avatar           : "maggie_wolff_AI_generated.jpg"
-  bio              : "Data Scientist"
-  location         : "Chicago, IL USA"
+  name             : "Thato Mogotsi"
+  avatar           : "-"
+  bio              : "Aspiring Data Scientist"
+  location         : "Johannesburg, RSA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "maggiewolff"
+  github           : "sirtido"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : "magwolff"
+  linkedin         : "sirtido"
   medium           :  
   orcid            :  
   pinterest        :
