@@ -1,0 +1,11 @@
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Publications"
+    url: /publication/
+  - title: "Certifications"
+    url: /certs/
+  - title: "CV"
+    url: /cv/
+  - title: "About"
+    url: /about/
