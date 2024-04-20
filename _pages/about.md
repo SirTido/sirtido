@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Maggie Wolff"
+title: "Thato Mogotsi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
