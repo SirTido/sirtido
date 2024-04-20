@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Thato Mogotsi"
-excerpt: "Empowering decisions through data-driven wisdom."
 author_profile: true
+excerpt: "Empowering decisions through data-driven wisdom."
+header:
+  overlay_image: images/data-visualisation.gif
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_image: images/data-visualisation.gif
 ---
 
 Aspiring Data Scientist focused on Data Analytics in the Banking industry. 
