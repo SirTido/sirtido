@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "dark" (default), "light"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &SirTido
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Thato Mogotsi"
-  avatar           : "images/Display-Picture.png"
+  avatar           : "Display-Picture.png"
   bio              : "Aspiring Data Scientist"
   location         : "Johannesburg, RSA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : "mogotsithato@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
