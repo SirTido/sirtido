@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thato Mogotsi"
-  avatar           : "Display-Picture"
+  avatar           : "https://github.com/SirTido/SirTido.github.io/blob/main/images/Display-Picture.png"
   bio              : "Aspiring Data Scientist"
   location         : "Johannesburg, RSA"
   employer         :
