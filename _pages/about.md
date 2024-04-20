@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image:images/data-visualisation.gif
+  overlay_image: images/data-visualisation.gif
 ---
 
 Aspiring Data Scientist focused on Data Analytics in the Banking industry. 
