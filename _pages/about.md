@@ -8,19 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist focused on Product Analytics in the Travel Tech industry. 
+Aspiring Data Scientist focused on Data Analytics in the Banking industry. 
 
 About Me
 ======
 
-Naturally curious and observant. Thrives on new challenges and never stops seeking out learning opportunities and sharing knowledge.
+I'm Thato Mogotsi, a passionate and driven individual with an insatiable curiosity for the world of data science.
 
-I enjoy solving problems with data, whether that is a personal problem, like creating [my own recommender model](https://github.com/maggiewolff/graduate-studies/tree/main/Recipe-Recommender) to figure out what to wear when running through another chilly Chicago winter, or on the job, using data to create better user experiences.
+My journey into the realm of data began with a fascination for problem-solving and a relentless thirst for knowledge. Despite starting with little expertise, I've embarked on a journey of self-discovery and learning, eagerly absorbing every opportunity to deepen my understanding of data analytics and its transformative potential.
 
-My current work typically includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and defining new metrics. I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry.
+As an aspiring data scientist, I find joy in unraveling the mysteries hidden within datasets, turning raw information into actionable insights. Whether it's crafting my own predictive models or experimenting with novel analytical techniques, I am constantly pushing the boundaries of my capabilities to harness the power of data for positive change.
 
-I pivoted to analytics in 2016, after working in marketing and communication roles (which included some data analysis) for a decade. I've always loved math and logic, and I draw on my previous experience when communicating the complex messages I find in data.
+Driven by a desire to contribute meaningfully to the field, I am committed to honing my skills in advanced analysis, hypothesis testing, and data visualization. My ultimate goal is to leverage these skills to tackle real-world challenges and drive innovation in diverse domains.
 
-Currently working in the travel tech industry analyzing user experiences for a corporate travel booking platform. Holds an MS in Data Science. Ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org). Also oversees a mentorship program via [Data Angels](http://dataangels.org/), a Slack community for women in data.
+Beyond technical proficiency, I believe in the importance of collaboration and knowledge sharing. I actively seek opportunities to engage with like-minded individuals, whether through mentorship programs, industry events, or online communities, where I can both learn from others and contribute my own insights.
 
-Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/magwolff). 
+I have just completed the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science), laying the groundwork for a career in data science that combines my passion for problem-solving with my love for analytics, And I am busy building projects to showcase my skillset from the material that I have learned.
+
+In my free time, you can find me exploring new datasets, experimenting with coding languages, or simply immersing myself in the latest developments in the field. I am also deeply committed to promoting diversity and inclusion within the tech community, recognizing the value of diverse perspectives in driving innovation and progress.
+
+I'm excited to connect with fellow data enthusiasts, industry professionals, and anyone else who shares my passion for data-driven insights. Let's embark on this journey together and unlock the boundless possibilities that data science has to offer!
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sirtido) to connect, collaborate, or simply share ideas. Together, let's make an impact through the power of data!
+
