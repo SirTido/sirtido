@@ -4,7 +4,7 @@ title: "Thato Mogotsi"
 author_profile: true
 excerpt: "Empowering decisions through data-driven wisdom."
 header:
-  overlay_image: images/data-visualisation.gif
+  overlay_image: images/Animation Tech by Matthew Butler.gif
 redirect_from: 
   - /about/
   - /about.html
