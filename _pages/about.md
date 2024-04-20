@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Thato Mogotsi"
-excerpt: ""Empowering decisions through data-driven wisdom."
+excerpt: "Empowering decisions through data-driven wisdom."
 author_profile: true
 redirect_from: 
   - /about/
