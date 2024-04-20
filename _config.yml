@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Thato Mogotsi"
-title_separator          : "TESTING"
+title_separator          : "-"
 name                     : &name "Thato Mogotsi"
 description              : &description "Aspiring Data Scientist"
 url                      : https://sirtido.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thato Mogotsi"
-  avatar           : "https://github.com/SirTido/SirTido.github.io/blob/main/images/Display-Picture.png"
+  avatar           : "images/Display-Picture.png"
   bio              : "Aspiring Data Scientist"
   location         : "Johannesburg, RSA"
   employer         :
