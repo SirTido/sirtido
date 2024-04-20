@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Thato Mogotsi"
 title_separator          : "-"
-name                     : &name "Thato Mogotsi"
+name                     : &name "sirtido"
 description              : &description "Aspiring Data Scientist"
 url                      : https://sirtido.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
