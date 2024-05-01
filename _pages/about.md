@@ -5,7 +5,7 @@ title: "Thato Mogotsi"
 author_profile: true
 excerpt: "Empowering decisions through data-driven wisdom."
 header:
-  image: images/Computer-Internet-by-Matthew-Butler.gif.gif
+  image: (https://github.com/SirTido/sirtido.github.io/blob/main/images/Computer-Internet-by-Matthew-Butler.gif)
 
 redirect_from: 
   - /about/
