@@ -11,6 +11,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p> <img src="https://github.com/SirTido/sirtido.github.io/blob/main/images/Computer-Internet-by-Matthew-Butler.gif"> </p>
 
 Aspiring Data Scientist focused on Data Analytics in the Banking industry. 
 
