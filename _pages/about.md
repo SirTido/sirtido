@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: default
 title: "Thato Mogotsi"
 author_profile: true
 excerpt: "Empowering decisions through data-driven wisdom."
