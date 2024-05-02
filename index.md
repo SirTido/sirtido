@@ -1,8 +1,15 @@
 ---
-layout: single
+permalink: /
+layout: default
+title: "Thato Mogotsi"
 author_profile: true
-excerpt: 'Delegate like a darling ✨'
+excerpt: "Empowering decisions through data-driven wisdom."
 header:
+  overlay_image: https://github.com/SirTido/sirtido.github.io/blob/main/images/Computer-Internet-by-Matthew-Butler.gif
+
+# redirect_from: 
+#  - /about/
+#  - /about.html
   overlay_image: assets/images/Computer-Internet-by-Matthew-Butler.gif.gif
 ---
 Aspiring Data Scientist focused on Data Analytics within the Banking industry.
