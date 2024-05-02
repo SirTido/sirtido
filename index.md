@@ -5,53 +5,26 @@ excerpt: 'Delegate like a darling ✨'
 header:
   overlay_image: assets/images/Computer-Internet-by-Matthew-Butler.gif.gif
 ---
+Aspiring Data Scientist focused on Data Analytics within the Banking industry.
 
-💡 About Me
----
-<p style="text-align:justify">
-I am currently in career development in the area of Data Science and Artificial Intelligence. This is my Portfolio to keep track of my projects, contributions & publications.</p>
+About Me
+======
 
-<p style="text-align:justify">
-My background in Computer Science – I am passionate about data analytics, numbers, and programming, but also have software engineering & development experiences.</p>
+I am a passionate and driven individual with an insatiable curiosity for the world of data science.
 
-<p style="text-align:justify">
-I am actively looking for job opportunities where I can help companies in optimizing their businesses and product development by providing meaningful data insights through Python, SQL, and Tableau (or similar technologies).</p>
+My journey into the realm of data began with a fascination for problem-solving and a relentless thirst for knowledge. Despite starting with little expertise, I've embarked on a journey of self-discovery and learning, eagerly absorbing every opportunity to deepen my understanding of data analytics and its transformative potential.
 
-<p style="text-align:justify">
-Feel free to <a href="https://www.linkedin.com/in/sirtido/">contact me</a> if you found my website useful and think I might be a good fit or simply would like to connect ☕</p> 
+As an aspiring data scientist, I find joy in unraveling the mysteries hidden within datasets, turning raw information into actionable insights. Whether it's crafting my own predictive models or experimenting with novel analytical techniques, I am constantly pushing the boundaries of my capabilities to harness the power of data for positive change.
 
-<p class="text-center"><a href="https://sirtido.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p>
+Driven by a desire to contribute meaningfully to the field, I am committed to honing my skills in advanced analysis, hypothesis testing, and data visualization. My ultimate goal is to leverage these skills to tackle real-world challenges and drive innovation in diverse domains.
 
+Beyond technical proficiency, I believe in the importance of collaboration and knowledge sharing. I actively seek opportunities to engage with like-minded individuals, whether through mentorship programs, industry events, or online communities, where I can both learn from others and contribute my own insights.
 
-👩🏻‍🔬 What I Possess as a Data Scientist
----
-<p style="text-align:justify">
-Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist are:-
-</p>
+I have just completed the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science), laying the groundwork for a career in data science that combines my passion for problem-solving with my love for analytics. Currently I am busy building projects to showcase my skillset from the material that I have learned.
 
-<ul style="text-align:justify">
-  <li>The ability to built robustly simple models that generalise effectively on out-of-sample data.</li>
-  <li>Machine Learning models not always or must be a complicated model</li>
-  <li>Capability and desire to express complex issues in a simple and transparent manner</li>
-  <li>Be detailed oriented and understanding on how to drive a business competitive</li>
-  <li>Be a strong analytical thinker with problem-solving and presentation skills</li>
-</ul>
+In my free time, you can find me exploring new datasets, experimenting with coding languages, or simply immersing myself in the latest developments in the field. I am also deeply committed to promoting diversity and inclusion within the tech community, recognizing the value of diverse perspectives in driving innovation and progress.
 
+I'm excited to connect with fellow data enthusiasts, industry professionals, and anyone else who shares my passion for data-driven insights. Let's embark on this journey together and unlock the boundless possibilities that data science has to offer!
 
-✍🏻 Keywords
----
-<p style="text-align:justify">
-Python (Pandas, Numpy, Matplotlib, OpenCV), Data Cleaning, Data Visualization (Dataiku, Tableau), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Advanced Machine Learning (Linear Regression, Classification, Clustering etc.), Deep Learning (NN, CNN, etc) Probability/Statistics, Natural Language Processing (NLP), Computer Vision, Cloud Computing (AWS EC2) </p>
-<p style="text-align:justify">
-I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, hybrid, remote or freelance.</p>
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sirtido) to connect, collaborate, or simply share ideas. Together, let's make an impact through the power of data!
 
-
-<!-- This is for Sidebar Menu on the Rigth Side -->
-<p>
-<aside class="sidebar__right ">
-            <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
-              <ul class="toc__menu">
-  <li class=""><a href="#-about-me">About Me</a></li>
-  <li class=""><a href="#-what-i-possess-as-a-data-scientist">What I Possess as a Data Scientist</a></li>
-  <li class=""><a href="#-keywords">Keywords</a></li>
