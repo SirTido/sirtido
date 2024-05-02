@@ -1,23 +1,11 @@
-# main links links
 main:
-
-  - title: "CV/Resume"
-    url: /cv/    
-    
-#  - title: "Portfolio"
-#   url: /portfolio/
-
-#  - title: "Talks"
-#   url: /talks/    
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
-#  - title: "Publications"
-#    url: /publications/
-
-#  - title: "Teaching"
-#    url: /teaching/    
-
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Publications"
+    url: /publication/
+  - title: "Certifications"
+    url: /certs/
+  - title: "CV"
+    url: /cv/
+  - title: "About"
+    url: /about/
