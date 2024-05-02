@@ -12,7 +12,7 @@ header:
 #  - /about.html
 ---
 
-Aspiring Data Scientist focused on Data Analytics within the Banking industry. 
+Aspiring Data Scientist focused on Data Analytics within the Banking industry.
 
 About Me
 ======
