@@ -6,11 +6,6 @@ header:
   overlay_image: assets/images/Computer-Internet-by-Matthew-Butler.gif.gif
 ---
 
-<p> <img src="https://sirtido.github.io/assets/images/Display-Picture.png" width="250" class="align-center"> </p>
-
-<!-- CTA Button for the CV, Portfolio and LinkedIn -->
-<p class="text-center"><a href="https://sirtido.github.io/cv/" class="btn btn--info">CV</a> <a href="https://sirtido.github.io/portfolio/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sirtido/" class="btn btn--info">LinkedIn</a></p>
-
 💡 About Me
 ---
 <p style="text-align:justify">
